@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hey, I'm Gabriel Vicini 👋
 
-<!--
-**GabrielVicini/GabrielVicini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-Here are some ideas to get you started:
+### About me!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* My interests are Electrical Engineering (with a focus on electromagnetic physics) and Computer Science
+* Licensed amateur radio operator
+* Currently building **[Skipzone](https://github.com/GabrielVicini/Skipzone)**, a Rust-based HF ionospheric ray-tracing and propagation prediction engine 
+* Author of **[flite-rs](https://github.com/GabrielVicini/flite-rs)**, a pure-Rust port of the Flite TTS engine
+
+Feel free to email me anytime at hello@vicini.io, with any questions you may have!
