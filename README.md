@@ -10,7 +10,7 @@
 
 * My interests are Electrical Engineering (with a focus on electromagnetic physics) and Computer Science
 * Licensed amateur radio operator
-* Currently building **[Skipzone](https://github.com/GabrielVicini/Skipzone)**, a Rust-based HF ionospheric ray-tracing and propagation prediction engine 
+* Designed **[Skipzone](https://github.com/GabrielVicini/Skipzone)**, a Rust-based HF ionospheric ray-tracing and propagation prediction engine
 * Author of **[flite-rs](https://github.com/GabrielVicini/flite-rs)**, a pure-Rust port of the Flite TTS engine
 
 Feel free to email me anytime at hello@vicini.io, with any questions you may have!
