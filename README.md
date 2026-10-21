@@ -1,7 +1,7 @@
-## Hey, I'm Gabriel Vicini 👋
+## Gabriel Vicini
 
-### About me!
+Interested in electrical engineering (especially electromagnetics and RF),
+computer science, and machine learning. Licensed amateur radio operator.
 
-* My interests are Electrical Engineering (with a focus on electromagnetic physics) and Computer Science
-* I'm also interested in Artificial Intelligence/Machine Learning
-* Licensed amateur radio operator
+**Contact**
+[Email](mailto:hello@vicini.io)
